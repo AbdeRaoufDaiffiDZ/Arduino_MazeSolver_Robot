@@ -10,12 +10,6 @@
 #define motor_left_speed 6
 
 
-///////////////////////////////////////////////////////////////////////////////////
-
-#define ultra_sonic_front 11
-#define ultra_sonic_right 10
-#define ultra_sonic_left 12
-
 
 #define Trigo_pin_front  2 /////////////////////   ultrasonic sensor configuration 
 #define Trigo_pin_right  A4
